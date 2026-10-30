@@ -54,6 +54,7 @@ Tools that run entirely client-side - nothing you paste gets uploaded anywhere.
 - [JSON Crack](https://jsoncrack.com) - Visualize JSON/YAML data as an interactive graph.
 - [Excalidraw](https://excalidraw.com) - Free, open-source virtual whiteboard for sketching diagrams with a hand-drawn feel.
 - [tldraw](https://www.tldraw.com) - Infinite canvas whiteboard, good for quick architecture sketches.
+- [RadarMakers Changelog Generator](https://radarmakers.com/tools/changelog-generator) - Turns change notes into a grouped changelog or release notes in Markdown or HTML, free and in the browser.
 
 ## Backend / API Infrastructure
 
